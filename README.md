@@ -1,5 +1,5 @@
 
-# Plant Disease Classification
+# AgriShield
 
 **Problem statement:**
 Farmers who grow potato and tomato facing lot of economic losses every year because of various disease that can happen to a potato plant. There are two comman diseases early blight and late blight, early blight is caused by fungas and late blight is caused by a specific micro-organism and if farmer can detect early and apply appropriate treatment then it can save lot of waste and prevent the economic loss.
